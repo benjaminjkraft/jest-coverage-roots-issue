@@ -1,4 +1,5 @@
 module.exports = {
+    rootDir: __dirname,
     collectCoverageFrom: ["<rootDir>/src/**"],
     projects: [
         // works with `roots: ["<rootDir>/src"]`
